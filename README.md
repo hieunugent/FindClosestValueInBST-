@@ -8,7 +8,7 @@
   - if it equal exit no more action need.
   - time complexity : O(LogN)
   - space / memory : O(1) or O(N) depend on the method using
-# Define the BST class:
+# Define the BST class
     - Class BST
         - with the right children node and left children node
         - with the value of each node
